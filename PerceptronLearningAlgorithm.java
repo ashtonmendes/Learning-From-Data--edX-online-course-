@@ -104,7 +104,7 @@ public class PerceptronLearningAlgorithm
 		double disagreement = 0;		
 		int loop = 0;
 		
-		while(loop<loopLimit)
+		while(loop<=loopLimit)
 		{
 		loop++;
 		
