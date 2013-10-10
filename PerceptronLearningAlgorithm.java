@@ -97,7 +97,7 @@ public class PerceptronLearningAlgorithm
 		DataPoint trainingSet[];
 		double[] weight;
 		ArrayList<DataPoint> misclassified;
-	    double condition=0;
+	    	double condition=0;
 		double classifiedWrongly = 0.0;
 		double iterations = 0;
 		double disagreement = 0; 
